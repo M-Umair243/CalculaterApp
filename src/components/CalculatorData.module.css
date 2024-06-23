@@ -1,0 +1,11 @@
+.wrapperContainer {
+  border: 1px solid #aaaaaa;
+  border-radius: 5px;
+  width: 350px;
+}
+.buttonsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 80%;
+}
